@@ -1,0 +1,20 @@
+/home/user/Ice-Cracker/ice_cracker/target/debug/deps/libsnap-8c0e360b66382569.rmeta: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/bytes.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/compress.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/crc32.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/crc32_table.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/decompress.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/error.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/frame.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/raw.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/read.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/tag.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/write.rs /home/user/Ice-Cracker/ice_cracker/target/debug/build/snap-fc83a1c5502d458d/out/crc32_table.rs /home/user/Ice-Cracker/ice_cracker/target/debug/build/snap-fc83a1c5502d458d/out/tag.rs
+
+/home/user/Ice-Cracker/ice_cracker/target/debug/deps/snap-8c0e360b66382569.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/bytes.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/compress.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/crc32.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/crc32_table.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/decompress.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/error.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/frame.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/raw.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/read.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/tag.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/write.rs /home/user/Ice-Cracker/ice_cracker/target/debug/build/snap-fc83a1c5502d458d/out/crc32_table.rs /home/user/Ice-Cracker/ice_cracker/target/debug/build/snap-fc83a1c5502d458d/out/tag.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/bytes.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/compress.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/crc32.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/crc32_table.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/decompress.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/error.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/frame.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/raw.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/read.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/tag.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snap-1.1.1/src/write.rs:
+/home/user/Ice-Cracker/ice_cracker/target/debug/build/snap-fc83a1c5502d458d/out/crc32_table.rs:
+/home/user/Ice-Cracker/ice_cracker/target/debug/build/snap-fc83a1c5502d458d/out/tag.rs:
+
+# env-dep:OUT_DIR=/home/user/Ice-Cracker/ice_cracker/target/debug/build/snap-fc83a1c5502d458d/out
