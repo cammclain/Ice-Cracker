@@ -5,9 +5,9 @@ use std::io::{BufRead, BufReader};
 use std::process;
 
 fn main() -> PolarsResult<()> {
-    let matches = App::new("Password Cracker")
-        .version("1.0")
-        .author("Your Name <your_email@example.com>")
+    let matches = App::new("Ice Cracker")
+        .version("0.1")
+        .author("Cam Mclain <cammclain@protonmail.com>")
         .about("Cracks passwords using a dictionary attack")
         .arg(Arg::with_name("hashes")
              .short('h')
@@ -33,6 +33,10 @@ fn main() -> PolarsResult<()> {
 
     // Here, add your logic for the hashing and checking process
 
+    // TODO: Intake id:password_hash from a txt file, where each line is that combo. In this case "id" may be an email, or a username.
+    // TODO: Intake dictionary words from a txt file, where each line is a word.
+    
+    
     Ok(())
 }
 
